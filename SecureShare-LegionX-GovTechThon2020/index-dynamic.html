@@ -1,0 +1,25 @@
+<html>
+<head>
+    <title>EduSign</title>
+</head>
+<body>
+  <H1>Upload to Our Server
+<form action="/upload" enctype="multipart/form-data" method="post">
+    <input type="file" name="file" multiple>
+    <input type="password" name="pass" multiple>
+    <input type="submit" value="Upload">
+</form>
+
+<H1> Fetch File
+  <form action="/fetch" enctype="multipart/form-data" method="post">
+      <input type="file" name="file" multiple>
+      <input type="submit" value="Upload">
+</form>
+
+<H1> Verify File Modified
+<form action="/verify" enctype="multipart/form-data" method="post">
+  <input type="file" name="file" multiple>
+  <input type="submit" value="Upload">
+</form>
+</body>
+</html>
