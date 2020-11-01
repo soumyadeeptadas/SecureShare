@@ -5,10 +5,10 @@ SecureShare is a powerful web application that allows for secure upload and shar
 
 
 # # Features of SecureShare:<br/>
-Supporting multiple formats (pdf, zip, txt, image etc.) <br/>
-Size validation of the document with compression features. <br/>
-Provides proper error message if document is not uploaded properly <br/>
-Upload any file to the server and receive a certificate to securely offer the certificate to multiple users. <br/>
-Analytics-based dashboard for user to understand how many files of a file type are there. <br/>
-Verification at both ends if document is modified in any way or not. <br/>
-Integration with other web applications easily. <br/>
+1) Supporting multiple formats (pdf, zip, txt, image etc.) <br/>
+2) Size validation of the document with compression features. <br/>
+3) Provides proper error message if document is not uploaded properly <br/>
+4) Upload any file to the server and receive a certificate to securely offer the certificate to multiple users. <br/>
+5) Analytics-based dashboard for user to understand how many files of a file type are there. <br/>
+6) Verification at both ends if document is modified in any way or not. <br/>
+7) Integration with other web applications easily. <br/>
