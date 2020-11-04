@@ -1,0 +1,8 @@
+Main dependencies for this project is NodeJs installed on the system.
+
+There are other packages used which should be installed after `npm install` command.
+
+There should be internet connectivity for running the webapp.
+
+OS built on: Windows 10
+Browser: Google Chrome

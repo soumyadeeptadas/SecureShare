@@ -1,0 +1,10 @@
+To install the project locally on the system, 
+the platform it was built on is Windows 10.
+
+Steps:
+1) Start Command Prompt
+2) cd into project folder
+3) run `npm intall` or `npm install --save`
+4) run `npm start`
+
+The webapp should start on the specified port
