@@ -33,6 +33,13 @@ Fetching a document in SecureShare is simple too. If the document is uploaded as
 ##### run `npm start`
 
 
+##### User IDs and passwords in credentials.txt
+##### List of dependencies in dependencies.txt.
+##### Installation/run instructions in install.txt
+##### functional and non-functional details and the application directory structure in appinfo.pdf
+##### Contact information in contact.txt
+
+
 ## Members:
 - Soumyadeepta Das
 - Ananya Sajwan
