@@ -43,5 +43,5 @@ Fetching a document in SecureShare is simple too. If the document is uploaded as
 
 
 ## Members:
-- Soumyadeepta Das
-- Ananya Sajwan
+- [Soumyadeepta Das](https://github.com/soumyadeeptadas)
+- [Ananya Sajwan](https://github.com/ananya2407)
