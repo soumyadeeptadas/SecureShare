@@ -1,6 +1,35 @@
 # SecureShare-LegionX
 IEEE-GovTechThon2020 repository of Team 43 - LegionX (DocUpload3)
 
+<table>
+<tr>
+<td>
+  <img src="https://media-exp1.licdn.com/dms/image/C5603AQFJvforwn5IGA/profile-displayphoto-shrink_400_400/0?e=1609977600&v=beta&t=wOKb5MUiFtPPRy1orF91qNTf_EW1_CsyqIDDUv-bYeo"/>
+     
+     Soumyadeepta Das
+
+<p align="center">
+<a href = "https://github.com/soumyadeptadas"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
+
+<a href = "https://www.linkedin.com/in/soumyadeepta-das/"><img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/></a>
+</p>
+</td>
+
+<td>
+     <img src="https://media-exp1.licdn.com/dms/image/C5603AQFVH9B33uWXAQ/profile-displayphoto-shrink_200_200/0?e=1609977600&v=beta&t=ChcQ9KxcTpSUVRtqGGcbtU-yVw-B8rUHErIHgebWpsE"/>
+     
+ 
+
+<p align="center">
+<a href = "https://github.com/ananya2407"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
+
+<a href = "https://www.linkedin.com/in/ananya-sajwan-2407/"><img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/></a>
+</p>
+</td>
+
+</tr>
+</table>
+
 ## Live demo link of prototype:
 #### https://legionx-secureshare.glitch.me/
 
